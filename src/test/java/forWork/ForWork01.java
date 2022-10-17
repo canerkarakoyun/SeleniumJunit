@@ -1,4 +1,4 @@
-package HomeWorks;
+package forWork;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class HomeWork01 {
+public class ForWork01 {
     /*
         1. Tarayıcıyı başlatın
         2. 'http://automationexercise.com' url'sine gidin
